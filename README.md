@@ -80,9 +80,10 @@
 <div  align="center">
  
 <a href="https://kishansutariya23.github.io/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kishandata23&repo=kishandata23&show_icons=true&theme=great-gatsby" ></a>
-<!-- <a href="https://avinash201199.github.io/weather-app/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=avinash201199&repo=weather-app&show_icons=true&theme=great-gatsby" ></a>
-<a href="https://avinash201199.github.io/To-Do-List/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=avinash201199&repo=To-Do-List&show_icons=true&theme=great-gatsby"></a>
-<a href="https://meme-generator-three-psi.vercel.app/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=avinash201199&repo=MemeGenerator&show_icons=true&theme=great-gatsby"></a> -->
+<a href="https://kishandata23.github.io/projects/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kishandata23&repo=projects&show_icons=true&theme=great-gatsby"></a>
+<a href="https://employee-management-system-kishandata23.vercel.app/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kishandata23&repo=Employee-Management-System&show_icons=true&theme=great-gatsby" ></a>
+
+<!-- <a href="https://meme-generator-three-psi.vercel.app/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=avinash201199&repo=MemeGenerator&show_icons=true&theme=great-gatsby"></a> -->
 
 </div>
 
@@ -96,7 +97,9 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) 
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Flask](https://img.shields.io/badge/flask-%262626.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
+![Vercel](https://img.shields.io/badge/Vercel-%3670A0.svg?style=for-the-badge&logo=Vercel&logoColor=white) 
  <!-- ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)  -->
  <!-- ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)   -->
  <!-- ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)  -->
