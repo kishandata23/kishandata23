@@ -79,7 +79,7 @@
 </div>
 <div  align="center">
  
-<a href="https://kishansutariya23.github.io/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kishandata23&repo=kishandata23&show_icons=true&theme=great-gatsby" ></a>
+<a href="https://kishandata23.github.io/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kishandata23&repo=kishandata23.github.io&show_icons=true&theme=great-gatsby" ></a>
 <a href="https://kishandata23.github.io/projects/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kishandata23&repo=projects&show_icons=true&theme=great-gatsby"></a>
 <a href="https://employee-management-system-kishandata23.vercel.app/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kishandata23&repo=Employee-Management-System&show_icons=true&theme=great-gatsby" ></a>
 <a href="https://github.com/kishandata23/coding"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kishandata23&repo=coding&show_icons=true&theme=great-gatsby"></a>
