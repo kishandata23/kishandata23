@@ -27,7 +27,7 @@
 ⚡ &nbsp;Fun fact: i enjoy LEARN-UNLEARN-RELEARN.\
 ✉️ &nbsp;You can email me at kishandata23@gmail.com. I'll try to respond as soon as possible!\
 📄 &nbsp;You can check my [Resume]() for more details about my work experience.\
-👨‍💻 &nbsp;All of my projects are available at **[My Portfolio](https://kishansutariya23.github.io/)**
+👨‍💻 &nbsp;All of my projects are available at **[My Portfolio](https://kishandata23.github.io/)**
 
 
 
