@@ -19,9 +19,9 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp; Hello everyone, I'm 2021 pass out graduate with BTech in ECE. Love to code  , exploring [Data Science](https://kishandata23.github.io/Data-Science/) these days. I enjoy collaborating with people on works of similar interest. 
+💡 &nbsp; Hello everyone, I'm 2021 pass out graduate with BTech in ECE. Love to code  , exploring tech which are in demand these days. I enjoy collaborating with people on works of similar interest. 
 
-🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Machine learning, Data Science and Cloud ☁️.\
+🌱 &nbsp;I'm on track for learning more about Artificial Intelligence  
 ✍️ &nbsp;Apart from technical interests, I like watching movies, playing Chess and badminton and started to build habit to read novel and books. \
 💬 &nbsp;Feel free to reach out to me for general consulting, or discussions regarding Data Science.\
 ⚡ &nbsp;Fun fact: i enjoy LEARN-UNLEARN-RELEARN.\
