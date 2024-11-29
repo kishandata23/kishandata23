@@ -52,9 +52,6 @@
 
 
 
-
-
-
 <!-- <a href="https://www.hackerrank.com/avinash201199"><img src="https://img.shields.io/badge/-HackerRank-E4405F?style=flat&logo=HackerRank&logoColor=white"/></a> &nbsp;
 <a href="https://leetcode.com/avinash201199/"><img src="https://img.shields.io/badge/-LeetCode-E4405F?style=flat&logo=LeetCode&logoColor=white"/></a> &nbsp; -->
 
@@ -78,12 +75,20 @@
 
 </div>
 <div  align="center">
- 
-<a href="https://kishandata23.github.io/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kishandata23&repo=kishandata23.github.io&show_icons=true&theme=great-gatsby" ></a>
-<a href="https://kishandata23.github.io/projects/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kishandata23&repo=projects&show_icons=true&theme=great-gatsby"></a>
-<a href="https://github.com/kishandata23/Data-Engineer/blob/main/Projects/readme.md/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kishandata23&repo=Data-Engineer&show_icons=true&theme=great-gatsby" ></a>
-<!-- <a href="https://github.com/kishandata23/coding"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kishandata23&repo=coding&show_icons=true&theme=great-gatsby"></a> -->
-
+<table style="width:100%">
+   
+  <tr>
+    <th rowspan="3"> <a href="https://codolio.com/profile/kishandata23"> <img src='./images/kishandata23_codolio_card.png' style='height:400px'></a> <br><p align="center"> My coding Portfolio</p></th>
+    <td><a href="https://kishandata23.github.io/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kishandata23&repo=kishandata23.github.io&show_icons=true&theme=great-gatsby" ></a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/kishandata23/Data-Engineer/blob/main/Projects/readme.md/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kishandata23&repo=Data-Engineer&show_icons=true&theme=great-gatsby" ></a></td>
+  </tr>
+  <tr>
+    <td><a href="https://kishandata23.github.io/projects/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kishandata23&repo=projects&show_icons=true&theme=great-gatsby"></a>
+</td>
+  </tr>
+</table>
 </div>
 
 ------------
