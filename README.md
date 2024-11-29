@@ -23,10 +23,10 @@
 
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence  
 ✍️ &nbsp;Apart from technical interests, I like watching movies, playing Chess and badminton and started to build habit to read novel and books. \
-💬 &nbsp;Feel free to reach out to me for general consulting, or discussions regarding Data Science.\
+💬 &nbsp;Feel free to reach out to me for general consulting, or discussions regarding Data.\
 ⚡ &nbsp;Fun fact: i enjoy LEARN-UNLEARN-RELEARN.\
 ✉️ &nbsp;You can email me at kishandata23@gmail.com. I'll try to respond as soon as possible!\
-📄 &nbsp;You can check my [Resume]() for more details about my work experience.\
+📄 &nbsp;You can check my [Resume](https://drive.google.com/drive/u/3/folders/1co8NKvd-Q1ZHIL0poWkFDVDVVRAA42hV) for more details about my work experience.\
 👨‍💻 &nbsp;All of my projects are available at **[My Portfolio](https://kishandata23.github.io/)**
 
 
@@ -81,8 +81,8 @@
  
 <a href="https://kishandata23.github.io/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kishandata23&repo=kishandata23.github.io&show_icons=true&theme=great-gatsby" ></a>
 <a href="https://kishandata23.github.io/projects/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kishandata23&repo=projects&show_icons=true&theme=great-gatsby"></a>
-<a href="https://employee-management-system-kishandata23.vercel.app/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kishandata23&repo=Employee-Management-System&show_icons=true&theme=great-gatsby" ></a>
-<a href="https://github.com/kishandata23/coding"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kishandata23&repo=coding&show_icons=true&theme=great-gatsby"></a>
+<a href="https://github.com/kishandata23/Data-Engineer/blob/main/Projects/readme.md/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kishandata23&repo=Data-Engineer&show_icons=true&theme=great-gatsby" ></a>
+<!-- <a href="https://github.com/kishandata23/coding"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kishandata23&repo=coding&show_icons=true&theme=great-gatsby"></a> -->
 
 </div>
 
